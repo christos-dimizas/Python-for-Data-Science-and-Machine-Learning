@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aedb3b7-e7d2-4a22-bb16-77ec0e6ca650" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/pythonDataVisualization/Seaborn/matrixPlots.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDataVisualization/Seaborn/grids.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="matrixPlots.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="matrixPlots.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pythonDataVisualization/Seaborn/matrixPlots.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state>
+              <caret column="64" selection-end-line="1" selection-end-column="42" />
               <folding>
                 <element signature="e#385#416#0" expanded="true" />
               </folding>
@@ -26,13 +25,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="distributionPlots.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonDataVisualization/Seaborn/distributionPlots.py">
+      <file leaf-file-name="grids.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pythonDataVisualization/Seaborn/grids.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="31" />
+            <state relative-caret-position="416">
+              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
               <folding>
-                <element signature="e#0#31#0" expanded="true" />
+                <element signature="e#330#351#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -68,6 +67,7 @@
         <option value="$PROJECT_DIR$/pythonDataVisualization/Seaborn/distributionPlots.py" />
         <option value="$PROJECT_DIR$/pythonDataVisualization/Seaborn/categoricalPlots.py" />
         <option value="$PROJECT_DIR$/pythonDataVisualization/Seaborn/matrixPlots.py" />
+        <option value="$PROJECT_DIR$/pythonDataVisualization/Seaborn/grids.py" />
       </list>
     </option>
   </component>
@@ -140,7 +140,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.matrixPlots">
+  <component name="RunManager" selected="Python.grids">
     <configuration name="SeabornTutorial" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-for-Data-Science-and-Machine-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,6 +172,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonDataVisualization/Seaborn/categoricalPlots.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="grids" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-for-Data-Science-and-Machine-Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonDataVisualization/Seaborn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonDataVisualization/Seaborn/grids.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,9 +236,11 @@
       <item itemvalue="Python.SeabornTutorial" />
       <item itemvalue="Python.categoricalPlots" />
       <item itemvalue="Python.matrixPlots" />
+      <item itemvalue="Python.grids" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.grids" />
         <item itemvalue="Python.matrixPlots" />
         <item itemvalue="Python.categoricalPlots" />
         <item itemvalue="Python.SeabornTutorial" />
@@ -416,10 +436,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonDataVisualization/Seaborn/matrixPlots.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state>
+          <caret column="64" selection-end-line="1" selection-end-column="42" />
           <folding>
             <element signature="e#385#416#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonDataVisualization/Seaborn/grids.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="e#330#351#0" expanded="true" />
           </folding>
         </state>
       </provider>
