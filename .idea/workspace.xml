@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aedb3b7-e7d2-4a22-bb16-77ec0e6ca650" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonDataVisualization/Matplotlib/mapPlotLibTutorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonDataVisualization/Seaborn/SeabornTutorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webProject/dataVisualization/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PandasTutorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandasTutorial/PandasTutorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDataVisualization/Seaborn/distributionPlots.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonDataVisualization/Seaborn/SeabornTutorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonDataVisualization/Seaborn/categoricalPlots.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,9 +15,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SeabornTutorial.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pythonDataVisualization/Seaborn/SeabornTutorial.py">
+      <file leaf-file-name="distributionPlots.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pythonDataVisualization/Seaborn/distributionPlots.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="categoricalPlots.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonDataVisualization/Seaborn/categoricalPlots.py">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="mapPlotLibTutorial.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonDataVisualization/Matplotlib/mapPlotLibTutorial.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="151" column="64" lean-forward="true" selection-start-line="151" selection-end-line="151" selection-end-column="64" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -31,6 +52,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>url</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,6 +69,8 @@
         <option value="$PROJECT_DIR$/webProject/webApp/urls.py" />
         <option value="$PROJECT_DIR$/webProject/dataVisualization/urls.py" />
         <option value="$PROJECT_DIR$/pythonDataVisualization/Matplotlib/mapPlotLibTutorial.py" />
+        <option value="$PROJECT_DIR$/pythonDataVisualization/Seaborn/SeabornTutorial.py" />
+        <option value="$PROJECT_DIR$/pythonDataVisualization/Seaborn/distributionPlots.py" />
       </list>
     </option>
   </component>
@@ -79,6 +107,12 @@
               <item name="Python-for-Data-Science-and-Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-for-Data-Science-and-Machine-Learning" type="462c0819:PsiDirectoryNode" />
               <item name="pythonDataVisualization" type="462c0819:PsiDirectoryNode" />
+              <item name="Matplotlib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-for-Data-Science-and-Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-for-Data-Science-and-Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="pythonDataVisualization" type="462c0819:PsiDirectoryNode" />
               <item name="Seaborn" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -109,7 +143,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.SeabornTutorial">
+    <configuration name="SeabornTutorial" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-for-Data-Science-and-Machine-Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonDataVisualization/Seaborn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\cdimizas\Desktop\DIM\python3\Python-for-Data-Science-and-Machine-Learning\pythonDataVisualization\Seaborn\distributionPlots.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="mapPlotLibTutorial" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-for-Data-Science-and-Machine-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,8 +180,13 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <list>
+      <item itemvalue="Python.mapPlotLibTutorial" />
+      <item itemvalue="Python.SeabornTutorial" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SeabornTutorial" />
         <item itemvalue="Python.mapPlotLibTutorial" />
       </list>
     </recent_temporary>
@@ -247,16 +304,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonDataVisualization/Matplotlib/mapPlotLibTutorial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="146" column="25" lean-forward="true" selection-start-line="146" selection-start-column="25" selection-end-line="146" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pandasTutorial/PandasTutorial.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-51">
@@ -267,8 +314,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonDataVisualization/Seaborn/SeabornTutorial.py">
+    <entry file="file://$PROJECT_DIR$/pythonDataVisualization/Matplotlib/mapPlotLibTutorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="151" column="64" lean-forward="true" selection-start-line="151" selection-end-line="151" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonDataVisualization/Seaborn/categoricalPlots.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonDataVisualization/Seaborn/distributionPlots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
