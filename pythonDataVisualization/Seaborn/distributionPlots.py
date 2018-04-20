@@ -2,8 +2,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 tips = sns.load_dataset('tips')
-
-#       ------ Distribution Plots ------ #
+# ------------------------------------------------------------ #
+#       ------ Distribution Plots       ------ #
 #   Let's discuss some plots that allow us to
 #   visualize the distribution of a data set. These plots are:
 #       - distplot
@@ -11,6 +11,7 @@ tips = sns.load_dataset('tips')
 #       - pairplot
 #       - rugplot
 #       - kdeplot
+# ------------------------------------------------------------ #
 
 # ------------------------------------------------------------ #
 # distplot
