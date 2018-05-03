@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aedb3b7-e7d2-4a22-bb16-77ec0e6ca650" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/machine_learning/linear_regression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/linear_regression_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/logistic_regression/logistic_regression.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/Ecommerce_Customers.csv" beforeDir="false" afterPath="$PROJECT_DIR$/machine_learning/linear_regression/Ecommerce_Customers.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/USA_Housing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/machine_learning/linear_regression/USA_Housing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/linear_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/machine_learning/linear_regression/linear_regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/linear_regression_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/machine_learning/linear_regression/linear_regression_exercise.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,21 +19,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="linear_regression.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/machine_learning/linear_regression.py">
+        <entry file="file://$PROJECT_DIR$/machine_learning/linear_regression/linear_regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="97" selection-start-line="97" selection-end-line="100" selection-end-column="9" />
+            <state relative-caret-position="306">
+              <caret line="18" column="9" selection-start-line="15" selection-end-line="18" selection-end-column="9" />
+              <folding>
+                <element signature="e#197#216#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="linear_regression_exercise.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/machine_learning/linear_regression_exercise.py">
+      <file leaf-file-name="logistic_regression.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/machine_learning/logistic_regression/logistic_regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="132" column="33" lean-forward="true" selection-start-line="132" selection-start-column="33" selection-end-line="132" selection-end-column="33" />
+            <state relative-caret-position="518">
+              <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
               <folding>
-                <element signature="e#681#700#0" expanded="true" />
+                <element signature="e#197#216#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,6 +81,7 @@
         <option value="$PROJECT_DIR$/machine_learning/linear_regression.py" />
         <option value="$PROJECT_DIR$/machine_learning/linear_regression_exersice.py" />
         <option value="$PROJECT_DIR$/machine_learning/linear_regression_exercise.py" />
+        <option value="$PROJECT_DIR$/machine_learning/logistic_regression/logistic_regression.py" />
       </list>
     </option>
   </component>
@@ -107,6 +114,18 @@
             <path>
               <item name="Python-for-Data-Science-and-Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-for-Data-Science-and-Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="machine_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="linear_regression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-for-Data-Science-and-Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-for-Data-Science-and-Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="machine_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="logistic_regression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-for-Data-Science-and-Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-for-Data-Science-and-Machine-Learning" type="462c0819:PsiDirectoryNode" />
               <item name="pythonDataVisualization" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -127,6 +146,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cdimizas\Desktop\DIM\python3\Python-for-Data-Science-and-Machine-Learning\machine_learning\linear_regression" />
       <recent name="C:\Users\cdimizas\Desktop\DIM\python3\Python-for-Data-Science-and-Machine-Learning\webApp\app" />
       <recent name="C:\Users\cdimizas\Desktop\DIM\python3\Python-for-Data-Science-and-Machine-Learning\webApp" />
       <recent name="C:\Users\cdimizas\Desktop\DIM\python3\Python-for-Data-Science-and-Machine-Learning\pandasTutorial" />
@@ -144,7 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.linear_regression_exercise">
+  <component name="RunManager" selected="Python.logistic_regression">
     <configuration name="grids" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-for-Data-Science-and-Machine-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,7 +195,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/machine_learning/linear_regression.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\cdimizas\Desktop\DIM\python3\Python-for-Data-Science-and-Machine-Learning\machine_learning\linear_regression\linear_regression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,13 +213,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/machine_learning/linear_regression_exercise.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\cdimizas\Desktop\DIM\python3\Python-for-Data-Science-and-Machine-Learning\machine_learning\linear_regression\linear_regression_exercise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="matrixPlots" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="logistic_regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-for-Data-Science-and-Machine-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -207,11 +227,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonDataVisualization/Seaborn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/machine_learning/logistic_regression" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonDataVisualization/Seaborn/matrixPlots.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/machine_learning/logistic_regression/logistic_regression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -236,19 +256,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.matrixPlots" />
       <item itemvalue="Python.grids" />
       <item itemvalue="Python.regressionPlot" />
       <item itemvalue="Python.linear_regression" />
       <item itemvalue="Python.linear_regression_exercise" />
+      <item itemvalue="Python.logistic_regression" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.logistic_regression" />
         <item itemvalue="Python.linear_regression_exercise" />
         <item itemvalue="Python.linear_regression" />
         <item itemvalue="Python.regressionPlot" />
         <item itemvalue="Python.grids" />
-        <item itemvalue="Python.matrixPlots" />
       </list>
     </recent_temporary>
   </component>
@@ -320,11 +340,19 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/machine_learning/linear_regression.py">
+    <entry file="file://$PROJECT_DIR$/machine_learning/linear_regression/linear_regression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1241">
           <caret line="73" column="10" selection-start-line="73" selection-start-column="10" selection-end-line="73" selection-end-column="10" />
+          <folding>
+            <element signature="e#197#216#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -459,19 +487,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/machine_learning/linear_regression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="97" selection-start-line="97" selection-end-line="100" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/machine_learning/linear_regression_exercise.py">
+    <entry file="file://$PROJECT_DIR$/machine_learning/linear_regression/linear_regression_exercise.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="212">
           <caret line="132" column="33" lean-forward="true" selection-start-line="132" selection-start-column="33" selection-end-line="132" selection-end-column="33" />
           <folding>
             <element signature="e#681#700#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machine_learning/linear_regression/linear_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="9" selection-start-line="15" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="e#197#216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="233" column="4" selection-start-line="233" selection-start-column="4" selection-end-line="233" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machine_learning/logistic_regression/logistic_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
+          <folding>
+            <element signature="e#197#216#0" expanded="true" />
           </folding>
         </state>
       </provider>
